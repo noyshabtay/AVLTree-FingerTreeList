@@ -1,2 +1,3 @@
 # AVLTree-FingerTreeList
-Java implementation Tree List using AVL Finger Tree.most operations in O(logn) time.
+Java implementation Tree List using AVL Finger Tree.
+Most operations in O(logn) time.
